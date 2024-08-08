@@ -54,10 +54,10 @@
       "@value": "I've seen things... seen things you little people wouldn't believe. Attack ships on fire off the shoulder of Orion bright as magnesium... I rode on the back decks of a blinker and watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments... they'll be gone"
     },
     "dRepName": {
-      "@value": "Nebyt_Yoroi"
+      "@value": "devsDRepYoroi"
     },
     "email": {
-      "@value": "donteventry@gmail.com"
+      "@value": ""
     },
     "references": [
       {
@@ -66,7 +66,7 @@
           "@value": "Label"
         },
         "uri": {
-          "@value": "https://dapp-example.yoroiwallet.com/"
+          "@value": "https://yoroi-wallet.com/"
         }
       }
     ]
